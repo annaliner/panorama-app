@@ -10,14 +10,30 @@ import UIKit
 
 class ViewController: UIViewController {
 
+
     
-    
+        
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+ 
+        
+        
+        
+//        imageView.layer.shadowColor = UIColor.darkGray.cgColor
+//
+//        imageView.layer.shadowOffset = CGSize(width: 5.0, height: 5.0)
+//
+//        imageView.layer.shadowRadius = 25.0
+//        
+//        imageView.layer.shadowOpacity = 0.9
+       
         
     }
 
 
+
+    
+    
 }
 
