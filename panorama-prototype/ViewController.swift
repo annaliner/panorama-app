@@ -11,10 +11,18 @@ import UIKit
 class ViewController: UIViewController {
 
 
+    @IBAction func textField(_ sender: Any) {
+    }
     
         
+    @IBAction func textFieldBig(_ sender: UITextField) {
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+    
 
  
         
